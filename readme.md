@@ -75,4 +75,4 @@ Save your changes and run the script using the following command:
 node mailer.js
 ```
 
-Remember to keep your email credentials and sensitive information secure. It's often a good practice to use environment variables or a configuration file to store these credentials instead of hardcoding them directly into your code.
+Remember to keep your email credentials and sensitive information secure. It's often a good practice to use environment variables or a configuration file to store these credentials instead of hardcoding them directly into your code.# NodeMailerBySeazone
